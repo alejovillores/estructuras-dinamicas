@@ -4,10 +4,11 @@
 
 Documentacion sobre Estructuras y Complejidad + C++
 
-**Estuctruras básicas de :**
+**Templates de :**
   - Pilas 
   - Colas
   - Arboles
   - Vectores
   - Hashing
   - Listas
+  - Diccionarios
