@@ -1,0 +1,7 @@
+### Code Blocks Ignore Files #
+estructuras-dinamicas.layout
+estructuras-dinamicas.depend
+bin/
+obj/
+main.cpp
+estructuras-dinamicas.cbp
